@@ -1,0 +1,54 @@
+// style css detail by longnguyen
+
+.sub_child_compare li{
+  display: inline-block;
+  width: 100%;
+  border-bottom: solid 1px #e7e7e7;
+  padding: 5px 0;
+  &:hover{
+    background: #02b1f2;
+  }
+  a{
+    padding: 0 10px;
+    &:hover{
+      cursor: pointer;
+    }
+  }
+}
+.top_list_item .title:hover{
+  a{
+    color: #02b1f2 !important;
+  }
+}
+.box_detail_wrapper_content{
+  p{
+    font-size: 14px;
+  }
+  h2, h3{
+    font-size: 23px;
+  }
+  dl, ul{
+    width: 100% !important;
+    background: #ffffff !important;
+  }
+}
+
+/// style header-menu by long nguyen
+.navigator{
+  .main_nav {
+    height: 40px;
+    line-height: 40px;
+    font-size: 14px;
+    i.fa.fa-bars{
+      font-size: 17px;
+      margin-right: 5px;
+    }
+  }
+}
+.list_navs li{
+  float: left;
+  padding: 0 15px;
+  list-style-type: none;
+  height: 40px;
+  line-height: 40px;
+}

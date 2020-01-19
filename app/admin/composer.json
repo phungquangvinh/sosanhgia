@@ -1,0 +1,9 @@
+{
+  "name": "vatgia/admin",
+  "require": {
+    "illuminate/view": "5.5.44",
+    "philo/laravel-blade": "^3.1",
+    "phpoffice/phpspreadsheet": "^1.8",
+    "blackbear/validation": "^1.0"
+  }
+}

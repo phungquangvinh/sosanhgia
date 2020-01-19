@@ -1,0 +1,7 @@
+/vendor
+.env
+.env.server
+public/admin
+.gitmodules
+.vs
+.idea/
